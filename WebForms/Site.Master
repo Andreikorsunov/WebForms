@@ -50,7 +50,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Tooded</a></li>
+                        <li><a runat="server" href="~/Tooded">Tooded</a></li>
                         <li><a runat="server" href="~/About">Lisa toode</a></li>
                         <li><a runat="server" href="~/Contact">Toode tüüp</a></li>
                         <li><a runat="server" href="~/Postav">Postav</a></li>

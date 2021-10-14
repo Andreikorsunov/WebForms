@@ -7,14 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace WebForms
 {
-    public partial class About : Page
+    public partial class _Default : Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void DetailsView1_PageIndexChanging(object sender, DetailsViewPageEventArgs e)
         {
 
         }

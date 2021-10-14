@@ -105,6 +105,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Tooded.aspx" />
     <Content Include="Postav.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
@@ -161,6 +162,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Tooded.aspx.cs">
+      <DependentUpon>Tooded.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tooded.aspx.designer.cs">
+      <DependentUpon>Tooded.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Postav.aspx.cs">
       <DependentUpon>Postav.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
